@@ -108,7 +108,7 @@ def create_spend_chart(categories):
     return output
 
 
-# Starter code
+# Starter code by nik
 
 food = Category("Food")
 food.deposit(1000, "initial deposit")
